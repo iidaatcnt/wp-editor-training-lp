@@ -1,3 +1,37 @@
+# WordPress Editor Training Landing Page
+
+This is a landing page for a training course designed for WordPress content editors.
+
+## Overview
+
+This landing page promotes a practical training course for mastering content creation in WordPress. It targets a wide range of users, from beginners to experienced editors, who want to learn how to create engaging content such as blog posts, news releases, and product pages.
+
+## Features
+
+-   **Hero Section:** A compelling introduction to the training course.
+-   **Course Details:** Explains the target audience and the key takeaways from the course.
+-   **Curriculum:** Provides a detailed outline of the course content, including the basics of WordPress posts, mastering the block editor (Gutenberg), media management, SEO-conscious writing, and more.
+-   **Instructor Profile:** Introduces the instructor to build credibility and trust.
+-   **Testimonials:** Features feedback from past participants to showcase the value of the course.
+-   **Contact Form:** A user-friendly form for inquiries and registration.
+
+## Technologies Used
+
+-   HTML
+-   CSS
+-   JavaScript
+
+## How to View Locally
+
+1.  Clone this repository to your local machine.
+2.  Open the `index.html` file in your web browser.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
 # WordPress編集者研修 - ランディングページ
 
 このプロジェクトは、WordPressの投稿機能やメディア機能を最大限に活用し、読者に響くコンテンツを作成するための実践的なスキルを学ぶ研修のランディングページです。
